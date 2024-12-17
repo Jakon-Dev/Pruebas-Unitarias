@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea58c2e6-4eac-441e-8e17-ca7b36569486" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/StationID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/data/StationIDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/UserAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/data/UserAccountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,16 +46,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.StationIDTest.executor": "Run",
+    "JUnit.UserAccountTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "DATA",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/itszitro/Documents/GitHub/Pruebas-Unitarias",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.UserAccountTest">
     <configuration name="StationIDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pruebas-Unitarias" />
       <extension name="coverage">
@@ -71,8 +77,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pruebas-Unitarias" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data" />
+      <option name="MAIN_CLASS_NAME" value="data.UserAccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserAccountTest" />
         <item itemvalue="JUnit.StationIDTest" />
       </list>
     </recent_temporary>
@@ -93,7 +115,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734431171892</updated>
-      <workItem from="1734434065573" duration="63000" />
+      <workItem from="1734434065573" duration="459000" />
+      <workItem from="1734434537616" duration="351000" />
     </task>
     <servers />
   </component>
